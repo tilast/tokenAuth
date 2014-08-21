@@ -1,0 +1,1 @@
+Template for socket.io token-based authentication
